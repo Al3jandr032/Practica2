@@ -1,0 +1,9 @@
+com\ipn\webclient\CarreraController.class
+com\ipn\webclient\MateriaController.class
+com\ipn\webclient\ExamenController.class
+com\ipn\webclient\controller.class
+com\ipn\webclient\AlumnoController.class
+com\ipn\webclient\CalificacionController.class
+com\ipn\webclient\RespuestaController.class
+com\ipn\webclient\NewServlet.class
+com\ipn\webclient\PreguntaController.class
